@@ -6,4 +6,4 @@ Project 2: a simulation of a sudden event where the world's population snapped i
 Project 3: implementations of 2D convolution
 Project 4: flocking simulation using pygame
 
-In the projects where I had a partner, I served as the navigator as I suggested ideas for the driver to implement in the project.-
+In the projects where I had a partner, I served as the navigator as I suggested ideas for the driver to implement in the project.
