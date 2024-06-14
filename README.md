@@ -1,4 +1,4 @@
-This is my portfolio for CSC 235. In here, all 5 major projects will be found.
+This is my portfolio for CSC 235. In here, all 5 major projects will be found along with other assignments.
 
 The projects are as follows:<br />
 Project 1: a simulation of scooters being used in the Union College campus with the co creator being Theophilus Henle<br />
