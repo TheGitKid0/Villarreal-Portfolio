@@ -8,7 +8,7 @@ Project 4: flocking simulation using pygame<br />
 Final Project: bus simulation adapted from project 1
 
 Other assignments:<br />
-Python Bootcamp: a physics based python refresher
+Python Bootcamp: a physics based python refresher<br />
 Solo Sprint: a rapid paced solo assignment based around spiking neurons
 
 In the projects where I had a partner, I served as the navigator as I suggested ideas for the driver to implement in the project. I did this due to me being the less experienced programmer of the pair in both cases.
