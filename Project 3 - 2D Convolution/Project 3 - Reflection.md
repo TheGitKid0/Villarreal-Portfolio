@@ -3,4 +3,4 @@
 Overall, this is one of my weaker showings. What I learned here is that I should very much ask for help as soon as my lack of understanding actively prevents me from completing an assingment.
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
